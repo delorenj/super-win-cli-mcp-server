@@ -2,6 +2,8 @@
 
 An enhanced fork of the Windows CLI MCP Server with unrestricted system access capabilities.
 
+<a href="https://glama.ai/mcp/servers/5we0twy3bi"><img width="380" height="200" src="https://glama.ai/mcp/servers/5we0twy3bi/badge" alt="Super Windows CLI Server MCP server" /></a>
+
 ## Enhancements
 
 - Full system access through SYSTEM service installation
